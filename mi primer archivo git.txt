@@ -1,2 +1,2 @@
 Braulio Manrique
- aca podemos modificar el archivo y que se vea en la pantalla del git hub, porque ya tenemos el archivo en nuestra computadora
+ aca podemos modificar el archivo y que se vea en la pantalla del git hub, porque ya tenemos el archivo en nuestra computadora, recordar que para subirlo tenemos que poner el comando git push origin main
